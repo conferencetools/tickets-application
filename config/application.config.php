@@ -3,15 +3,14 @@
 $modules = [
     'TwbBundle',
     'AssetManager',
-    'BsbFlysystem',
     'DoctrineModule',
     'DoctrineORMModule',
     'Carnage\ZendfonyCli',
     'Carnage\Cqrs',
     'Carnage\Cqorms',
-    'Carnage\Scheduler',
+    'Carnage\ZendLayoutPerModule',
+    'ConferenceTools\GoogleAnalytics',
     'ConferenceTools\Tickets',
-    'OpenTickets\GoogleAnalytics',
     'ZfrStripeModule',
 ];
 
