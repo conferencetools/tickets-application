@@ -112,5 +112,10 @@ return [
             'tickets/layout' => __DIR__ . '/../../view/layout.phtml',
             'tickets/ticket/purchase' => __DIR__ . '/../../view/purchase.phtml',
         ]
-    ]
+    ],
+    'command_handlers' => [
+        'factories' => [
+            \ConferenceTools\Tickets\Domain\CommandHandler\Ticket::class => \PHPYorkshire\TicketFactory::class,
+        ],
+    ],
 ];
