@@ -59,49 +59,57 @@ return [
                     'name' => 'AM: Pragmatic TDD with Luka Muzinic',
                     'cost' => 0,
                     'available' => 20,
-                    'description' => 'Abstract here?'
+                    'description' => 'Abstract here?',
+                    'supplementary' => true,
                 ],
                 'wsam2' => [
                     'name' => 'AM: Pentesting Do’s and Dont’s with Clinton Ingrams',
                     'cost' => 0,
                     'available' => 20,
-                    'description' => 'Abstract here?'
+                    'description' => 'Abstract here?',
+                    'supplementary' => true,
                 ],
                 'wsam3' => [
                     'name' => 'AM: Technical Blogging for PHP Programmers with Thursday Bram',
                     'cost' => 0,
                     'available' => 20,
-                    'description' => 'Abstract here?'
+                    'description' => 'Abstract here?',
+                    'supplementary' => true,
                 ],
                 'wsam4' => [
                     'name' => 'AM: Using Laravel for rapid development with PHP Training',
                     'cost' => 0,
                     'available' => 20,
-                    'description' => 'Abstract here?'
+                    'description' => 'Abstract here?',
+                    'supplementary' => true,
                 ],
                 'wspm1' => [
                     'name' => 'PM: Best practices for crafting high quality PHP apps with James Titcumb',
                     'cost' => 0,
                     'available' => 20,
-                    'description' => 'Abstract here?'
+                    'description' => 'Abstract here?',
+                    'supplementary' => true,
                 ],
                 'wspm2' => [
                     'name' => 'PM: Developing your soft skills with Kenneth Schabrechts',
                     'cost' => 0,
                     'available' => 20,
-                    'description' => 'Abstract here?'
+                    'description' => 'Abstract here?',
+                    'supplementary' => true,
                 ],
                 'wspm3' => [
                     'name' => 'PM: Getting started with ReactPHP – Pushing real-time data to the browser with Christian Lück',
                     'cost' => 0,
                     'available' => 20,
-                    'description' => 'Abstract here?'
+                    'description' => 'Abstract here?',
+                    'supplementary' => true,
                 ],
                 'wspm4' => [
                     'name' => 'PM: (Di|Con)vergent Mob Refactoring with Pim Elshoff',
                     'cost' => 0,
                     'available' => 20,
-                    'description' => 'Abstract here?'
+                    'description' => 'Abstract here?',
+                    'supplementary' => true,
                 ],
             ],
         ]
