@@ -196,16 +196,16 @@
         },
         {
             "name": "conferencetools/tickets",
-            "version": "0.2.0",
+            "version": "0.2.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/conferencetools/tickets-module.git",
-                "reference": "900589fee7e3006d380272bbf664e939734fa413"
+                "reference": "217588f8758ba415a790fa0e2a7ede1649dc8bde"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/conferencetools/tickets-module/zipball/900589fee7e3006d380272bbf664e939734fa413",
-                "reference": "900589fee7e3006d380272bbf664e939734fa413",
+                "url": "https://api.github.com/repos/conferencetools/tickets-module/zipball/217588f8758ba415a790fa0e2a7ede1649dc8bde",
+                "reference": "217588f8758ba415a790fa0e2a7ede1649dc8bde",
                 "shasum": ""
             },
             "require": {
@@ -253,7 +253,7 @@
                 "MIT"
             ],
             "description": "Ticket selling module",
-            "time": "2017-12-16T12:14:27+00:00"
+            "time": "2017-12-20T12:54:54+00:00"
         },
         {
             "name": "container-interop/container-interop",
