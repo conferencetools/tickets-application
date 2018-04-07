@@ -19,7 +19,7 @@ return [
                 'sup_early' => [
                     'name' => 'Super Early Bird',
                     'cost' => 6500,
-                    'available' => 30,
+                    'available' => 29,
                     'description' => 'Conference ticket for Saturday 14th April 2018'
                 ],
                 'early' => [
@@ -33,8 +33,8 @@ return [
                 ],
                 'std' => [
                     'name' => 'Standard',
-                    'cost' => 10000,
-                    'available' => 40,
+                    'cost' => 9000,
+                    'available' => 45,
                     'description' => 'Conference ticket for Saturday 14th April 2018',
                     'metadata' => [
                         'availableTo' => DateTime::createFromFormat('Y-m-d H|', '2018-04-13 19'),
@@ -60,7 +60,7 @@ return [
                 'wsam1' => [
                     'name' => 'AM: Pragmatic TDD with Luka Muzinic',
                     'cost' => 0,
-                    'available' => 10,
+                    'available' => 15,
                     'description' => '<a href="https://www.phpyorkshire.co.uk/workshops/luka-muzinic">More details</a>',
                     'supplementary' => true,
                 ],
@@ -71,15 +71,8 @@ return [
                     'description' => '<a href="https://www.phpyorkshire.co.uk/workshops/clinton-ingrams">More details</a>',
                     'supplementary' => true,
                 ],
-                'wsam3' => [
-                    'name' => 'AM: Technical Blogging for PHP Programmers with Thursday Bram',
-                    'cost' => 0,
-                    'available' => 10,
-                    'description' => '<a href="https://www.phpyorkshire.co.uk/workshops/thursday-bram">More details</a>',
-                    'supplementary' => true,
-                ],
                 'wsam4' => [
-                    'name' => 'AM: Using Laravel for rapid development with PHP Training',
+                    'name' => 'AM: Using Laravel for rapid development with Rob Allen &amp; Gary Hockin',
                     'cost' => 0,
                     'available' => 10,
                     'description' => '<a href="https://www.phpyorkshire.co.uk/workshops/phptraining">More details</a>',
@@ -88,7 +81,7 @@ return [
                 'wspm1' => [
                     'name' => 'PM: Best practices for crafting high quality PHP apps with James Titcumb',
                     'cost' => 0,
-                    'available' => 10,
+                    'available' => 15,
                     'description' => '<a href="https://www.phpyorkshire.co.uk/workshops/james-titcumb">More details</a>',
                     'supplementary' => true,
                 ],
@@ -107,10 +100,10 @@ return [
                     'supplementary' => true,
                 ],
                 'wspm4' => [
-                    'name' => 'PM: (Di|Con)vergent Mob Refactoring with Pim Elshoff',
+                    'name' => 'PM: (Di|Con)vergent Mob Refactoring with Pim Elshoff &amp; Joop Lammerts',
                     'cost' => 0,
                     'available' => 10,
-                    'description' => '<a href="https://www.phpyorkshire.co.uk/workshops/pim-elshoff">More details</a>',
+                    'description' => '<a href="https://www.phpyorkshire.co.uk/workshops/pim-elshoff-joop-lamerts">More details</a>',
                     'supplementary' => true,
                 ],
             ],
