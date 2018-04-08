@@ -263,16 +263,16 @@
         },
         {
             "name": "conferencetools/checkin",
-            "version": "0.2.0",
+            "version": "0.2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/conferencetools/checkin-module.git",
-                "reference": "1d62ef14d23b6558c81e3aa5473442861c1ff260"
+                "reference": "4a829fbc2971ea45a81382f4896ee9a7a3a9cc13"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/conferencetools/checkin-module/zipball/1d62ef14d23b6558c81e3aa5473442861c1ff260",
-                "reference": "1d62ef14d23b6558c81e3aa5473442861c1ff260",
+                "url": "https://api.github.com/repos/conferencetools/checkin-module/zipball/4a829fbc2971ea45a81382f4896ee9a7a3a9cc13",
+                "reference": "4a829fbc2971ea45a81382f4896ee9a7a3a9cc13",
                 "shasum": ""
             },
             "require": {
@@ -317,7 +317,7 @@
                 "MIT"
             ],
             "description": "Check in/door list module",
-            "time": "2018-04-07T09:27:14+00:00"
+            "time": "2018-04-08T13:46:03+00:00"
         },
         {
             "name": "conferencetools/googleanalytics",
@@ -357,16 +357,16 @@
         },
         {
             "name": "conferencetools/tickets",
-            "version": "0.2.4",
+            "version": "0.2.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/conferencetools/tickets-module.git",
-                "reference": "6f6e5f61bc6258b86b459cc8160b3d48d7461166"
+                "reference": "c53c168194d3e3760f707b0fd4ad2b0e8b8564ab"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/conferencetools/tickets-module/zipball/6f6e5f61bc6258b86b459cc8160b3d48d7461166",
-                "reference": "6f6e5f61bc6258b86b459cc8160b3d48d7461166",
+                "url": "https://api.github.com/repos/conferencetools/tickets-module/zipball/c53c168194d3e3760f707b0fd4ad2b0e8b8564ab",
+                "reference": "c53c168194d3e3760f707b0fd4ad2b0e8b8564ab",
                 "shasum": ""
             },
             "require": {
@@ -414,7 +414,7 @@
                 "MIT"
             ],
             "description": "Ticket selling module",
-            "time": "2018-04-07T09:14:42+00:00"
+            "time": "2018-04-08T13:42:23+00:00"
         },
         {
             "name": "container-interop/container-interop",
