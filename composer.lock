@@ -267,12 +267,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/conferencetools/checkin-module.git",
-                "reference": "f2ad4376fe16a9c7d8c3b9523de282e7cbbce8cd"
+                "reference": "703be60535aba8d23fb84be5bb9af3e8c163f0c8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/conferencetools/checkin-module/zipball/f2ad4376fe16a9c7d8c3b9523de282e7cbbce8cd",
-                "reference": "f2ad4376fe16a9c7d8c3b9523de282e7cbbce8cd",
+                "url": "https://api.github.com/repos/conferencetools/checkin-module/zipball/703be60535aba8d23fb84be5bb9af3e8c163f0c8",
+                "reference": "703be60535aba8d23fb84be5bb9af3e8c163f0c8",
                 "shasum": ""
             },
             "require": {
@@ -317,7 +317,7 @@
                 "MIT"
             ],
             "description": "Check in/door list module",
-            "time": "2018-04-08T15:26:15+00:00"
+            "time": "2018-04-08T15:42:53+00:00"
         },
         {
             "name": "conferencetools/googleanalytics",
